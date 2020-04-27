@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73639324352",
+    "firebase_url": "https://yotenews-fd89b.firebaseio.com",
+    "project_id": "yotenews-fd89b",
+    "storage_bucket": "yotenews-fd89b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73639324352:android:6a05984b1853747f695b25",
+        "android_client_info": {
+          "package_name": "com.example.flutter_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73639324352-e7lgpgm24lifiouc9hbqmubs71g35gua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLaJx8wBV_eRpP5aALBw5wAjVf3qccyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73639324352-e7lgpgm24lifiouc9hbqmubs71g35gua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
